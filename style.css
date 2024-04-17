@@ -1,0 +1,9 @@
+h1 {
+  background-color: aliceblue;
+  color: blue;
+  padding: 10px;
+}
+
+body {
+  transition: background-color 0.8s ease;
+}
